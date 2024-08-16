@@ -1,0 +1,2 @@
+ECHO is on.
+Hello there . HOw do you do ? This is text filetest in Git .
